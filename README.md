@@ -81,20 +81,18 @@ plt.axis("off")
 
 plt.show()
 ```
-## Output
+## output
+## input image:
+<img width="622" height="352" alt="image" src="https://github.com/user-attachments/assets/d7cd92f0-ac5e-4def-89ef-c5c0fb853fbb" />
 
-### Original Image:
-<img width="338" height="277" alt="image" src="https://github.com/user-attachments/assets/87911884-362d-4935-949d-d55eca0c6563" />
 
 ## gray scale:
-<img width="367" height="286" alt="image" src="https://github.com/user-attachments/assets/301c36ed-0853-4223-ab58-d1a66687946d" />
-
-
-### Canny Edge detector output
-<img width="400" height="302" alt="image" src="https://github.com/user-attachments/assets/bd55c000-5f0e-44fe-919c-0c114b1d98c1" />
+<img width="618" height="356" alt="image" src="https://github.com/user-attachments/assets/755db523-d532-4f60-89e5-60f511ef8386" />
+## candy edge:
+<img width="622" height="350" alt="image" src="https://github.com/user-attachments/assets/fe1b5b9a-f9d8-458d-94a2-c0514e7bc3ee" />
 
 ### Display the result of Hough transform
-<img width="368" height="292" alt="image" src="https://github.com/user-attachments/assets/dfc2e695-8b84-453d-b615-1db8d571153e" />
+<img width="624" height="352" alt="image" src="https://github.com/user-attachments/assets/9a0aa7d3-6598-4cc4-b68b-91794f0bf9d9" />
 
 # Result:
 Thus, the image has been successfully converted.
